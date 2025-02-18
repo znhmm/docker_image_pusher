@@ -1,4 +1,10 @@
 langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
+postgres:15-alpine
+nginx:latest
+langgenius/dify-sandbox:0.2.10
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
 #nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
